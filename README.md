@@ -14,6 +14,7 @@ Written for speed, not beauty. (Speed not as in computational efficiency, but as
 ```
       -------Part 1--------   -------Part 2--------
 Day       Time  Rank  Score       Time  Rank  Score
+ 18   00:30:09  1495      0   00:41:00  1107      0
  17   00:11:26   133      0   00:36:03  1072      0
  16   00:22:51  2472      0   00:43:52   950      0
  15   00:07:54   255      0   00:31:35  2010      0
