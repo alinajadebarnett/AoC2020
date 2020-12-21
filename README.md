@@ -14,6 +14,7 @@ Written for speed, sometimes edited for beauty. (Speed not as in computational e
 ```
       -------Part 1--------   -------Part 2--------
 Day       Time  Rank  Score       Time  Rank  Score
+ 21   00:37:06  1453      0   00:39:35  1044      0
  20   00:35:22   703      0   01:54:19   406      0
  19   00:28:43   520      0   00:34:19   170      0
  18   00:30:09  1495      0   00:41:00  1107      0
