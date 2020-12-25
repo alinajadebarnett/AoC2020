@@ -11,9 +11,13 @@ Written for speed, sometimes edited for beauty. (Speed not as in computational e
 
 ## Personal Stats
 
+We have 21 points!
+
 ```
       -------Part 1--------   -------Part 2--------
 Day       Time  Rank  Score       Time  Rank  Score
+ 25   00:17:40  1212      0   00:18:13  1056      0
+ 24   00:14:20   592      0   00:28:39   552      0
  23   00:20:32   517      0   01:24:29   850      0
  22   00:09:00   894      0   00:39:01   801      0
  21   00:37:06  1453      0   00:39:35  1044      0
